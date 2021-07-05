@@ -6,14 +6,14 @@
 ![](Images/3.jpeg)
 ![](Images/4.jpeg)
 ![](Images/5.jpeg)
+![](Images/6.jpeg)
 
 ## Parte B
 > ### **1**
-> ![](Images/6.jpeg)
 > ![](Images/7.jpeg)
+> ![](Images/8.jpeg)
 
 > ### **2**
-> ![](Images/8.jpeg)
 > ![](Images/9.jpeg)
 > ![](Images/10.jpeg)
 
