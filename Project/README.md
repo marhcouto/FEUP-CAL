@@ -30,4 +30,4 @@ The project was very ambicious, yet the second part was missing certain parts, a
 Name | UP | Git Username |
 -----|----|--------------|
 Marcelo Couto | 201906086 | [marhcouto](https://github.com/marhcouto)
-João Rodrigo | 201704590 | [JoaoRodrigo99](https://github.com/JoaoRodrigo99)
+João Rodrigo | 201705110 | [JoaoRodrigo99](https://github.com/JoaoRodrigo99)
