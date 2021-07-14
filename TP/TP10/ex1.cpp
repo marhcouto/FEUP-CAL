@@ -30,9 +30,9 @@ int kmpMatcher(std::string pattern, std::string text) {
             q = lps[q - 1];
         if (pattern.at(q) == i)
             q++;
-        if (q >= pattern.size() - 1) { // >= for a 1 letter pattern
+        if (q >= pattern.size()) { // >= for a 1 letter pattern
             count++;
-            q = lps[q];
+            q = lps[q - 1];
         }
     }
     return count;
