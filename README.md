@@ -2,6 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **COURSE (OLD):** [Conception and Analysis of Algorithms](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459479) (CAL)
+
 **COURSE (NEW):** [Algorithms Design](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484424) (DA)
 
 **CONTENTS:** 
